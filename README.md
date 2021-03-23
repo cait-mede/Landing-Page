@@ -3,4 +3,6 @@ A website created with HTML and CSS which serves as a partial resume and partial
 
 Check it out here: https://cait-mede.github.io/Landing-Page/
 
+Mobile site in progress :) 
+
 
